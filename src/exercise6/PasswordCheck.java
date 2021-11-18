@@ -30,7 +30,7 @@ public class PasswordCheck {
           }
 
         } while(isvalid == false);
-        System.out.println("Password id valid!");
+        System.out.println("Password valid!");
         
     }
 }
